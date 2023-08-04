@@ -5,6 +5,6 @@ Developing this Android app involves leveraging Firebase Authentication to enabl
 
 Intro Pages
 
-<img src="/Startpage.jpg" alt="Alt Text" width="400" height="200">
+<img src="/Startpage.jpg" alt="Alt Text" width="400" height="800">
 
 
